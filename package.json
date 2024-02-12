@@ -1,0 +1,26 @@
+{
+  "name": "typescript-starter-template",
+  "version": "1.0.0",
+  "description": "A starter template for TypeScript projects with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon"
+  },
+  "keywords": [
+    "Node.js",
+    "TypeScript",
+    "Starter",
+    "Template"
+  ],
+  "author": "dulanwirajith1995@gmail.com",
+  "license": "ISC",
+  "engines": {
+    "node": "20.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
